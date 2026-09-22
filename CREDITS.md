@@ -86,12 +86,12 @@ Individual source pages and their licence notices were checked on 22 September 2
 
 ### Audio
 
-- Creator: Crētus
-- Original source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sulphur-crested_cockatoo.ogv)
-- Original file: https://upload.wikimedia.org/wikipedia/commons/1/1b/Sulphur-crested_cockatoo.ogv
-- Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribution: Sulphur-crested cockatoo.ogv — Crētus, CC BY-SA 4.0.
-- Changes: Excerpt 70.00–78.00 s; constant gain +8.49 dB, 15/30 ms edge fades; mono MP3. No dynamic compression.
+- Creator: Jacques de Vos Malan
+- Original source: [Freesound](https://freesound.org/people/jacques.devosmalan%40gmail.com/sounds/783046/)
+- Original file: https://cdn.freesound.org/previews/783/783046_7160013-hq.mp3
+- Licence: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Attribution: Sulphur Crested Cockatoo — Jacques de Vos Malan, CC0 1.0.
+- Changes: Clear field recording from Stirling, South Australia; playback limited to eight seconds in the game.
 
 ### Image
 
@@ -175,12 +175,12 @@ Individual source pages and their licence notices were checked on 22 September 2
 
 ### Image
 
-- Creator: Emőke Dénes
-- Original source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Em_-_Sarcophilus_harrisii_-_8.jpg)
-- Original file: https://upload.wikimedia.org/wikipedia/commons/c/cd/Em_-_Sarcophilus_harrisii_-_8.jpg
-- Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribution: Em - Sarcophilus harrisii - 8.jpg — Emőke Dénes, CC BY-SA 4.0.
-- Changes: Resized and JPEG encoded; cropped only in display.
+- Creator: KeresH
+- Original source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tasmanian_devil_head_on.jpg)
+- Original file: https://upload.wikimedia.org/wikipedia/commons/3/3f/Tasmanian_devil_head_on.jpg
+- Licence: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- Attribution: Tasmanian devil head on.jpg — KeresH, CC BY-SA 3.0.
+- Changes: Cropped only in display.
 
 ## Common brushtail possum
 
