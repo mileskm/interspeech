@@ -131,19 +131,20 @@ export const animals = [
     "id": "cockatoo",
     "name": "Sulphur-crested cockatoo",
     "scientific": "Cacatua galerita",
-    "audio": "./audio/cockatoo.mp3",
+    "audio": "./audio/cockatoo-v2.mp3",
+    "playbackSeconds": 8,
     "image": "./images/cockatoo.jpg",
     "fact": "A raised yellow crest is part of this cockatoo’s visual communication, accompanying its unmistakably raucous voice.",
     "credits": {
       "audio": {
-        "creator": "Crētus",
-        "source": "Wikimedia Commons",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sulphur-crested_cockatoo.ogv",
-        "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sulphur-crested_cockatoo.ogv",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "attribution": "Sulphur-crested cockatoo.ogv — Crētus, CC BY-SA 4.0.",
-        "changes": "Excerpt 70.00–78.00 s; constant gain +8.49 dB, 15/30 ms edge fades; mono MP3. No dynamic compression.",
+        "creator": "Jacques de Vos Malan",
+        "source": "Freesound",
+        "sourceUrl": "https://freesound.org/people/jacques.devosmalan%40gmail.com/sounds/783046/",
+        "originalFileUrl": "https://cdn.freesound.org/previews/783/783046_7160013-hq.mp3",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attribution": "Sulphur Crested Cockatoo — Jacques de Vos Malan, CC0 1.0.",
+        "changes": "Clear field recording from Stirling, South Australia; playback limited to eight seconds in the game.",
         "verified": "2026-09-22"
       },
       "image": {
@@ -261,7 +262,7 @@ export const animals = [
     "scientific": "Sarcophilus harrisii",
     "fact": "Devils use screams, coughs and growls to settle disputes. Their frightening voices helped inspire their European name.",
     "audio": "./audio/devil.mp3",
-    "image": "./images/devil.jpg",
+    "image": "./images/devil-v2.jpg",
     "credits": {
       "audio": {
         "creator": "digifishmusic",
@@ -275,14 +276,14 @@ export const animals = [
         "verified": "2026-09-22"
       },
       "image": {
-        "creator": "Emőke Dénes",
+        "creator": "KeresH",
         "source": "Wikimedia Commons",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Em_-_Sarcophilus_harrisii_-_8.jpg",
-        "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Em_-_Sarcophilus_harrisii_-_8.jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "attribution": "Em - Sarcophilus harrisii - 8.jpg — Emőke Dénes, CC BY-SA 4.0.",
-        "changes": "Resized and JPEG encoded; cropped only in display.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tasmanian_devil_head_on.jpg",
+        "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tasmanian_devil_head_on.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Tasmanian devil head on.jpg — KeresH, CC BY-SA 3.0.",
+        "changes": "Cropped only in display.",
         "verified": "2026-09-22"
       }
     }

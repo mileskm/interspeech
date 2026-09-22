@@ -3,11 +3,11 @@ import { Game } from './game.js';
 const main = document.querySelector('#main');
 const game = new Game(animals);
 const player = new Audio(); player.preload = 'auto'; player.id = 'stimulus'; player.hidden = true; player.setAttribute('aria-hidden', 'true'); document.body.append(player);
-let screen = 'landing'; let played = false; let playbackToken = 0;
+let screen = 'landing'; let played = false; let playbackToken = 0; let playbackTimer;
 const escapeHTML = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const img = (a, extra='') => `<img src="${a.image}" alt="${escapeHTML(a.name)}" ${extra}>`;
 const playButton = () => `<button class="play" id="play" aria-pressed="false"><span class="play-icon" aria-hidden="true">▶</span><span class="play-label">PLAY SOUND</span></button>`;
-function stopAudio() { playbackToken++; player.pause(); player.currentTime = 0; }
+function stopAudio() { playbackToken++; clearTimeout(playbackTimer); player.pause(); player.currentTime = 0; }
 function focusMain() { main.focus({preventScroll:true}); window.scrollTo({top:0,behavior:'instant'}); }
 function landing() {
   stopAudio(); screen = 'landing';
@@ -40,7 +40,7 @@ function wirePlay() {
   document.querySelector('#play').onclick = async () => {
     if(!player.paused){stopAudio();playbackState(false);return;}
     const token=++playbackToken; player.currentTime=0;
-    try { await player.play(); if(token!==playbackToken)return; played=true; playbackState(true); document.querySelector('#audio-status').textContent='Listening… Tap stop to end playback.'; }
+    try { await player.play(); if(token!==playbackToken)return; played=true; playbackState(true); document.querySelector('#audio-status').textContent='Listening… Tap stop to end playback.'; clearTimeout(playbackTimer); playbackTimer=setTimeout(()=>{player.pause();player.currentTime=0;playbackState(false);const s=document.querySelector('#audio-status');if(s)s.textContent='Tap to listen again.';},(game.current.playbackSeconds ?? 8)*1000); }
     catch(e){ if(token!==playbackToken)return; playbackState(false); document.querySelector('#audio-status').textContent='Sound couldn’t play. Check your device volume and connection, then tap to try again.'; }
   };
 }
