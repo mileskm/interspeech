@@ -132,21 +132,21 @@ export const animals = [
     "id": "cockatoo",
     "name": "Sulphur-crested cockatoo",
     "scientific": "Cacatua galerita",
-    "audio": "./audio/cockatoo-v2.mp3",
+    "audio": "./audio/cockatoo-xc1177819.mp3",
     "playbackSeconds": 8,
     "image": "./images/cockatoo.jpg",
-    "fact": "The harsh screech is generated in the syrinx and reinforced by the vocal tract. Strong harmonic energy and fast amplitude changes help the call remain conspicuous across a noisy flock.",
+    "fact": "This is a group alarm call: one cockatoo found a brushtail possum and others joined from the canopy. The harsh syringeal pulses are broadband and overlap across callers, creating a dense, attention-grabbing chorus.",
     "credits": {
       "audio": {
-        "creator": "Jacques de Vos Malan",
-        "source": "Freesound",
-        "sourceUrl": "https://freesound.org/people/jacques.devosmalan%40gmail.com/sounds/783046/",
-        "originalFileUrl": "https://cdn.freesound.org/previews/783/783046_7160013-hq.mp3",
-        "license": "CC0 1.0",
-        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-        "attribution": "Sulphur Crested Cockatoo — Jacques de Vos Malan, CC0 1.0.",
-        "changes": "Clear field recording from Stirling, South Australia; playback limited to eight seconds in the game.",
-        "verified": "2026-09-22"
+        "creator": "AK",
+        "source": "Xeno-canto",
+        "sourceUrl": "https://xeno-canto.org/1177819",
+        "originalFileUrl": "https://xeno-canto.org/1177819/download",
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attribution": "AK, XC1177819. Accessible at www.xeno-canto.org/1177819. CC BY-NC-SA 4.0.",
+        "changes": "Original mono MP3; playback limited to the first 8 seconds.",
+        "verified": "2026-09-23"
       },
       "image": {
         "creator": "Andrew Mercer (www.baldwhiteguy.co.nz)",
@@ -293,20 +293,20 @@ export const animals = [
     "id": "possum",
     "name": "Common brushtail possum",
     "scientific": "Trichosurus vulpecula",
-    "fact": "This clip is mostly mastication: each tooth impact creates a short broadband transient, while the mouth filters the crunch. Brushtails also use laryngeal growls, hisses, coughs and screeches.",
-    "audio": "./audio/possum.mp3",
+    "fact": "This brushtail call is a noisy, broadband vocal signal rather than a pitched tone. Irregular laryngeal vibration and turbulent airflow give it the guttural, rough texture that carries through vegetation at night.",
+    "audio": "./audio/possum-xc1054596.mp3",
     "image": "./images/possum.jpg",
     "credits": {
       "audio": {
-        "creator": "digifishmusic",
-        "source": "Freesound",
-        "sourceUrl": "https://freesound.org/people/digifishmusic/sounds/53291/",
-        "originalFileUrl": "https://cdn.freesound.org/previews/53/53291_29541-hq.mp3",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "attribution": "Common brushtail possum recording — digifishmusic, CC BY 4.0.",
-        "changes": "Excerpt 2.00–10.00 s; constant gain +21.14 dB, brief edge fades; mono MP3.",
-        "verified": "2026-09-22"
+        "creator": "Romuald Mikusek",
+        "source": "Xeno-canto",
+        "sourceUrl": "https://xeno-canto.org/1054596",
+        "originalFileUrl": "https://xeno-canto.org/1054596/download",
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attribution": "Romuald Mikusek, XC1054596. Accessible at www.xeno-canto.org/1054596. CC BY-NC-SA 4.0.",
+        "changes": "Original mono MP3; playback limited to the first 8 seconds.",
+        "verified": "2026-09-23"
       },
       "image": {
         "creator": "Charles J. Sharp",
@@ -319,6 +319,7 @@ export const animals = [
         "changes": "Resized and JPEG encoded; cropped only in display.",
         "verified": "2026-09-22"
       }
-    }
+    },
+    "playbackSeconds": 8
   }
 ];
