@@ -20,7 +20,7 @@ Individual source pages and their licence notices were checked on 22 September 2
 - Original file: https://upload.wikimedia.org/wikipedia/commons/0/0d/Kookaburra_Sits_In_The_Old_Gum_Tree.jpg
 - Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribution: Kookaburra Sits In The Old Gum Tree.jpg — Pohle22c, CC BY-SA 4.0.
-- Changes: Resized and JPEG encoded; cropped only in display.
+- Changes: Resized and JPEG encoded; displayed without cropping.
 
 ## Australian magpie
 
@@ -40,7 +40,7 @@ Individual source pages and their licence notices were checked on 22 September 2
 - Original file: https://upload.wikimedia.org/wikipedia/commons/2/2d/Australian_Magpie_in_Victoria.jpg
 - Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribution: Australian Magpie in Victoria.jpg — Amara Bharathy, CC BY-SA 4.0.
-- Changes: Resized and JPEG encoded; cropped only in display.
+- Changes: Resized and JPEG encoded; displayed without cropping.
 
 ## Superb lyrebird
 
@@ -60,27 +60,26 @@ Individual source pages and their licence notices were checked on 22 September 2
 - Original file: https://upload.wikimedia.org/wikipedia/commons/2/26/Menura_novaehollandiae_-_Greg_Tasney_-_600843215.jpeg
 - Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribution: Menura novaehollandiae - Greg Tasney - 600843215.jpeg — Greg Tasney, CC BY-SA 4.0.
-- Changes: Resized and JPEG encoded; cropped only in display.
+- Changes: Resized and JPEG encoded; displayed without cropping.
 
-## Australasian bittern
+## Bush stone-curlew
 
 ### Audio
 
-- Creator: Department of Conservation (NZ); individual recordist not identified
-- Original source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Australasian-bittern.wav)
-- Original file: https://upload.wikimedia.org/wikipedia/commons/8/84/Australasian-bittern.wav
-- Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- Attribution: © Crown Copyright / Department of Conservation (NZ) / CC BY 4.0.
-- Changes: Excerpt 6.00–14.00 s; constant gain +2.20 dB, 15/30 ms edge fades; mono MP3. No dynamic compression.
+- Creator: James Lambert
+- Original source: [Xeno-canto XC589419](https://xeno-canto.org/589419), republished by [Birdlife Southern Queensland and Birds Queensland](https://soundcloud.com/user-363253592/bush-stone-curlew-pair-dueting)
+- Licence: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- Attribution: Bush Stone-curlew pair dueting — James Lambert (XC589419), CC BY-NC-SA 4.0.
+- Changes: MP3 delivery copy; playback limited to the first 8 seconds.
 
 ### Image
 
-- Creator: Kym Nicolson
-- Original source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Botaurus_poiciloptilus_119059864.jpg)
-- Original file: https://upload.wikimedia.org/wikipedia/commons/8/82/Botaurus_poiciloptilus_119059864.jpg
-- Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- Attribution: Botaurus poiciloptilus 119059864.jpg — Kym Nicolson, CC BY 4.0.
-- Changes: Resized and JPEG encoded; cropped only in display.
+- Creator: Merryjack
+- Original source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bush_Stone-curlew_(10731347734).jpg)
+- Original file: https://upload.wikimedia.org/wikipedia/commons/8/83/Bush_Stone-curlew_(10731347734).jpg
+- Licence: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+- Attribution: Bush Stone-curlew (10731347734).jpg — Merryjack, CC BY-SA 2.0.
+- Changes: Resized by Wikimedia to 1280 × 1280; displayed without cropping.
 
 ## Sulphur-crested cockatoo
 
@@ -100,7 +99,7 @@ Individual source pages and their licence notices were checked on 22 September 2
 - Original file: https://upload.wikimedia.org/wikipedia/commons/e/e9/Sulphur-crested_Cockatoo_-_AndrewMercer_-_DSC20087.jpg
 - Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribution: Sulphur-crested Cockatoo - AndrewMercer - DSC20087.jpg — Andrew Mercer (www.baldwhiteguy.co.nz), CC BY-SA 4.0.
-- Changes: Resized and JPEG encoded; cropped only in display.
+- Changes: Resized and JPEG encoded; displayed without cropping.
 
 ## Yellow-tailed black cockatoo
 
@@ -120,7 +119,7 @@ Individual source pages and their licence notices were checked on 22 September 2
 - Original file: https://upload.wikimedia.org/wikipedia/commons/5/57/Yellow_Tailed_Black_Cockatoo_01.jpg
 - Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribution: Yellow Tailed Black Cockatoo 01.jpg — KenKnM, CC BY-SA 4.0.
-- Changes: Resized and JPEG encoded; cropped only in display.
+- Changes: Resized and JPEG encoded; displayed without cropping.
 
 ## Eastern whipbird
 
@@ -140,7 +139,7 @@ Individual source pages and their licence notices were checked on 22 September 2
 - Original file: https://upload.wikimedia.org/wikipedia/commons/c/cc/Eastern_Whipbird%2C_Green_Mountains%2C_Lamington_NP%2C_Queensland.jpg
 - Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribution: Eastern Whipbird, Green Mountains, Lamington NP, Queensland.jpg — chujoslaw, CC BY-SA 4.0.
-- Changes: Resized and JPEG encoded; cropped only in display.
+- Changes: Resized and JPEG encoded; displayed without cropping.
 
 ## Koala
 
@@ -160,7 +159,7 @@ Individual source pages and their licence notices were checked on 22 September 2
 - Original file: https://upload.wikimedia.org/wikipedia/commons/2/22/Koalas_%28Phascolarctos_cinereus%29_in_Caversham_Wildlife_Park%2C_September_2023_07.jpg
 - Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribution: Koalas (Phascolarctos cinereus) in Caversham Wildlife Park, September 2023 07.jpg — Calistemon, CC BY-SA 4.0.
-- Changes: Resized and JPEG encoded; cropped only in display.
+- Changes: Resized and JPEG encoded; displayed without cropping.
 
 ## Tasmanian devil
 
@@ -200,7 +199,7 @@ Individual source pages and their licence notices were checked on 22 September 2
 - Original file: https://upload.wikimedia.org/wikipedia/commons/3/30/Common_brushtail_possum_%28Trichosurus_vulpecula%29_Scottsdale_4.jpg
 - Licence: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribution: Common brushtail possum (Trichosurus vulpecula) Scottsdale 4.jpg — Charles J. Sharp, CC BY-SA 4.0.
-- Changes: Resized and JPEG encoded; cropped only in display.
+- Changes: Resized and JPEG encoded; displayed without cropping.
 
 ## Selection notes
 
