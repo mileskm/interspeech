@@ -132,7 +132,7 @@ export const animals = [
     "id": "cockatoo",
     "name": "Sulphur-crested cockatoo",
     "scientific": "Cacatua galerita",
-    "audio": "./audio/cockatoo-xc1177819.mp3",
+    "audio": "./audio/cockatoo-xc1177819.mp3?v=published",
     "playbackSeconds": 8,
     "image": "./images/cockatoo.jpg",
     "fact": "This is a group alarm call: one cockatoo found a brushtail possum and others joined from the canopy. The harsh syringeal pulses are broadband and overlap across callers, creating a dense, attention-grabbing chorus.",
@@ -294,7 +294,7 @@ export const animals = [
     "name": "Common brushtail possum",
     "scientific": "Trichosurus vulpecula",
     "fact": "This brushtail call is a noisy, broadband vocal signal rather than a pitched tone. Irregular laryngeal vibration and turbulent airflow give it the guttural, rough texture that carries through vegetation at night.",
-    "audio": "./audio/possum-xc1054596.mp3",
+    "audio": "./audio/possum-xc1054596.mp3?v=published",
     "image": "./images/possum.jpg",
     "credits": {
       "audio": {

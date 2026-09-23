@@ -1,4 +1,4 @@
-import { animals } from './animals.js?v=xc-audio-refresh';
+import { animals } from './animals.js?v=xc-audio-published';
 import { Game } from './game.js';
 const main = document.querySelector('#main');
 const game = new Game(animals);
