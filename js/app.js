@@ -1,4 +1,4 @@
-import { animals } from './animals.js';
+import { animals } from './animals.js?v=curlew-refresh';
 import { Game } from './game.js';
 const main = document.querySelector('#main');
 const game = new Game(animals);

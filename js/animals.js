@@ -5,7 +5,7 @@ export const animals = [
     "scientific": "Dacelo novaeguineae",
     "audio": "./audio/kookaburra.mp3",
     "image": "./images/kookaburra.jpg",
-    "fact": "That familiar laugh is a territorial call. Kookaburras belong to the kingfisher family.",
+    "fact": "The laugh is a territorial chorus made in the syrinx, the bird’s two-sided vocal organ. Several family members overlap accelerating phrases, building that unmistakable rolling rhythm.",
     "credits": {
       "audio": {
         "creator": "Kuco",
@@ -37,7 +37,7 @@ export const animals = [
     "scientific": "Gymnorhina tibicen",
     "audio": "./audio/magpie.mp3",
     "image": "./images/magpie.jpg",
-    "fact": "Australian magpies are accomplished songbirds. Their rich, flute-like song is often called carolling.",
+    "fact": "Carolling comes from the syrinx, whose left and right sound sources birds can control separately. Rapid pitch glides and overlapping harmonics give the song its fluid, almost electronic timbre.",
     "credits": {
       "audio": {
         "creator": "Hullwarren",
@@ -69,7 +69,7 @@ export const animals = [
     "scientific": "Menura novaehollandiae",
     "audio": "./audio/lyrebird.mp3",
     "image": "./images/lyrebird.jpg",
-    "fact": "A master mimic: this lyrebird is copying other Australian birds. The sound you heard is one bird’s remarkable repertoire.",
+    "fact": "Fine control of the syrinx lets a lyrebird reproduce the pitch contours, spectra and timing of other species. The sequence is learned: one bird can assemble many acoustic models into a display.",
     "credits": {
       "audio": {
         "creator": "Crētus",
@@ -96,36 +96,37 @@ export const animals = [
     }
   },
   {
-    "id": "bittern",
-    "name": "Australasian bittern",
-    "scientific": "Botaurus poiciloptilus",
-    "audio": "./audio/bittern.mp3",
-    "image": "./images/bittern.jpg",
-    "fact": "The male’s deep booming call can carry across a wetland, even while the bird stays hidden among reeds.",
+    "id": "curlew",
+    "name": "Bush stone-curlew",
+    "scientific": "Burhinus grallarius",
+    "audio": "./audio/curlew.mp3",
+    "image": "./images/curlew.jpg",
+    "fact": "The eerie “weer-loo” is a clear, far-carrying syringeal whistle. Pairs often duet, matching phrases and accelerating together until the night call becomes an intense chorus.",
     "credits": {
       "audio": {
-        "creator": "Department of Conservation (NZ); individual recordist not identified",
-        "source": "Wikimedia Commons",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australasian-bittern.wav",
-        "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Australasian-bittern.wav",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "attribution": "© Crown Copyright / Department of Conservation (NZ) / CC BY 4.0.",
-        "changes": "Excerpt 6.00–14.00 s; constant gain +2.20 dB, 15/30 ms edge fades; mono MP3. No dynamic compression.",
-        "verified": "2026-09-22"
+        "creator": "James Lambert",
+        "source": "Xeno-canto, republished by Birdlife Southern Queensland and Birds Queensland",
+        "sourceUrl": "https://soundcloud.com/user-363253592/bush-stone-curlew-pair-dueting",
+        "originalFileUrl": "https://xeno-canto.org/589419",
+        "license": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "attribution": "Bush Stone-curlew pair dueting — James Lambert (XC589419), CC BY-NC-SA 4.0.",
+        "changes": "MP3 delivery copy; playback limited to the first 8 seconds.",
+        "verified": "2026-09-23"
       },
       "image": {
-        "creator": "Kym Nicolson",
+        "creator": "Merryjack",
         "source": "Wikimedia Commons",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botaurus_poiciloptilus_119059864.jpg",
-        "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Botaurus_poiciloptilus_119059864.jpg",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "attribution": "Botaurus poiciloptilus 119059864.jpg — Kym Nicolson, CC BY 4.0.",
-        "changes": "Resized and JPEG encoded; cropped only in display.",
-        "verified": "2026-09-22"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bush_Stone-curlew_(10731347734).jpg",
+        "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bush_Stone-curlew_(10731347734).jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "attribution": "Bush Stone-curlew (10731347734).jpg — Merryjack, CC BY-SA 2.0.",
+        "changes": "Resized by Wikimedia to 1280 × 1280; displayed without cropping.",
+        "verified": "2026-09-23"
       }
-    }
+    },
+    "playbackSeconds": 8
   },
   {
     "id": "cockatoo",
@@ -134,7 +135,7 @@ export const animals = [
     "audio": "./audio/cockatoo-v2.mp3",
     "playbackSeconds": 8,
     "image": "./images/cockatoo.jpg",
-    "fact": "A raised yellow crest is part of this cockatoo’s visual communication, accompanying its unmistakably raucous voice.",
+    "fact": "The harsh screech is generated in the syrinx and reinforced by the vocal tract. Strong harmonic energy and fast amplitude changes help the call remain conspicuous across a noisy flock.",
     "credits": {
       "audio": {
         "creator": "Jacques de Vos Malan",
@@ -166,7 +167,7 @@ export const animals = [
     "scientific": "Zanda funerea",
     "audio": "./audio/yellowtail.mp3",
     "image": "./images/yellowtail.jpg",
-    "fact": "These black cockatoos have a distinctive, far-carrying call. Look for the yellow cheek patch and yellow panels in the tail.",
+    "fact": "Its drawn-out contact call has a slowly changing fundamental with strong harmonics, producing the characteristic wailing quality that carries between birds in flight.",
     "credits": {
       "audio": {
         "creator": "Wardie44",
@@ -198,7 +199,7 @@ export const animals = [
     "scientific": "Psophodes olivaceus",
     "audio": "./audio/whipbird.mp3",
     "image": "./images/whipbird.jpg",
-    "fact": "The male’s call ends in a sharp whip-crack. A nearby female often answers, making a coordinated duet.",
+    "fact": "This is precision duet timing: the male supplies the rising whistle and explosive whip-crack, then the female answers almost immediately. Two birds can sound like one continuous gesture.",
     "credits": {
       "audio": {
         "creator": "Wardie44",
@@ -228,7 +229,7 @@ export const animals = [
     "id": "koala",
     "name": "Koala",
     "scientific": "Phascolarctos cinereus",
-    "fact": "The male’s bellow combines deep, snoring inhalations with short, belch-like exhalations—a startling sound from an animal of this size.",
+    "fact": "Male koalas lower pitch with a second sound source: large velar vocal folds above the larynx. Their long, massive vibration produces formants that make a small animal sound improbably huge.",
     "audio": "./audio/koala.mp3",
     "image": "./images/koala.jpg",
     "credits": {
@@ -260,7 +261,7 @@ export const animals = [
     "id": "devil",
     "name": "Tasmanian devil",
     "scientific": "Sarcophilus harrisii",
-    "fact": "Devils use screams, coughs and growls to settle disputes. Their frightening voices helped inspire their European name.",
+    "fact": "Devil screams and growls are broadband, noisy laryngeal signals rather than clean tones. Irregular vibration and rapid nonlinear changes make the voice sound rough, urgent and hard to ignore.",
     "audio": "./audio/devil.mp3",
     "image": "./images/devil-v2.jpg",
     "credits": {
@@ -292,7 +293,7 @@ export const animals = [
     "id": "possum",
     "name": "Common brushtail possum",
     "scientific": "Trichosurus vulpecula",
-    "fact": "This possum is crunching an apple. At night, brushtails can also produce guttural growls, hisses, screeches and coughs.",
+    "fact": "This clip is mostly mastication: each tooth impact creates a short broadband transient, while the mouth filters the crunch. Brushtails also use laryngeal growls, hisses, coughs and screeches.",
     "audio": "./audio/possum.mp3",
     "image": "./images/possum.jpg",
     "credits": {
